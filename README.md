@@ -4,6 +4,8 @@
 
 - <b> An interesting web application that I worked on </b>
   - [DB Airlines project](https://github.com/bog1200/DB_Airline_Project)
+- <b> An amazing game that I worked on recently </b>
+  - [Elemental Esxape](https://github.com/bog1200/ElementalEscape)
  
 <h2> 📄 Certifications:</h2>
 
