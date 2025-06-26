@@ -47,7 +47,7 @@ Welcome to my GitHub portfolio! I'm passionate about software development, block
 <h2>🤳 Connect with Me:</h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/razvancristea1/" target="_blank">
+  <a href="https://www.linkedin.com/in/razvan-cristea/" target="_blank">
     <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />
   </a>
   <a href="https://www.instagram.com/chrisharris_101/" target="_blank">
