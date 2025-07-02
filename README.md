@@ -11,7 +11,7 @@ Welcome to my GitHub portfolio! I'm passionate about software development, block
     <a href="https://github.com/Chrisharris1001/workflow-digitization-blockchain">🔗 Workflow Digitization using Blockchain</a>
   </li>
   <br/>
-  <li><b>Moodle++ is a modern recreation of the Moodle LMS.Leveraging faster technologies to simplify course management and enhance the learning experience.</b><br/>
+  <li><b>Moodle++ is a modern recreation of the Moodle LMS. Leveraging faster technologies to simplify course management and enhance the learning experience.</b><br/>
     <a href="https://github.com/bog1200/Moodle_plus_plus">📚 Moodle++</a>
   </li>
   <br/>
@@ -21,24 +21,6 @@ Welcome to my GitHub portfolio! I'm passionate about software development, block
   <br/>
   <li><b>An amazing game that I worked on recently:</b><br/>
     <a href="https://github.com/bog1200/ElementalEscape">🎮 Elemental Escape</a>
-  </li>
-</ul>
-
----
-
-<h2>📄 Certifications:</h2>
-
-<ul>
-  <li><b>Learn HTML Course</b><br/>
-    <a href="https://www.codecademy.com/profiles/chrisharris101/certificates/9eb0741e5ebef1f9f58a53bfac67d3a7">🎓 Show Credentials</a> – Issued by Codecademy
-  </li>
-  <br/>
-  <li><b>Learn CSS Course</b><br/>
-    <a href="https://www.codecademy.com/profiles/chrisharris101/certificates/9a5bb1fc45b4281af1fffec93b0aaf05">🎓 Show Credentials</a> – Issued by Codecademy
-  </li>
-  <br/>
-  <li><b>Introduction to Blockchain and Crypto</b><br/>
-    <a href="https://www.codecademy.com/profiles/chrisharris101/certificates/029aafc1045f406d9df401b3376a17a3">🎓 Show Credentials</a> – Issued by Codecademy
   </li>
 </ul>
 
