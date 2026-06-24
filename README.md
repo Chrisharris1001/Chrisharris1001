@@ -1,8 +1,8 @@
 # Hi there, I'm Răzvan Cristea! 👋
 
-I am a **Software Engineer** and **Data Engineer** currently pursuing my **Master's degree in Software Engineering and Digital Transformation** at LUT University in Finland[cite: 1]. With a solid foundation in Computer Engineering, I specialize in building scalable data systems, automating ETL pipelines, and exploring decentralized architectures[cite: 1].
+I am a **Software Engineer** and **Data Engineer** currently pursuing my **Master's degree in Software Engineering and Digital Transformation** at LUT University in Finland. With a solid foundation in Computer Engineering, I specialize in building scalable data systems, automating ETL pipelines, and exploring decentralized architectures.
 
-I thrive on turning complex backend challenges into high-performance solutions—whether that means slashing query execution times or engineering secure blockchain systems[cite: 1].
+I thrive on turning complex backend challenges into high-performance solutions—whether that means slashing query execution times or engineering secure blockchain systems.
 
 ---
 
@@ -10,10 +10,10 @@ I thrive on turning complex backend challenges into high-performance solutions�
 
 Here is a snapshot of the measurable value I've delivered in my previous roles:
 
-*   **Database Optimization:** Cut report generation time by **40%** for 100+ active users and boosted data retrieval speeds by up to **60%** on Microsoft SQL Server[cite: 1].
-*   **Scalable ETL Pipelines:** Designed and maintained production ETL processes migrating **1M+ rows of data monthly** into Snowflake, improving data accuracy by **30%**[cite: 1].
-*   **CI/CD Automation:** Streamlined deployment pipelines using TeamCity and Octopus, increasing production deployment frequency by **50%**[cite: 1].
-*   **Environment Efficiency:** Integrated Docker into legacy development environments, reducing configuration time by **40%** and improving project delivery timelines by **30%**[cite: 1].
+*   **Database Optimization:** Cut report generation time by **40%** for 100+ active users and boosted data retrieval speeds by up to **60%** on Microsoft SQL Server.
+*   **Scalable ETL Pipelines:** Designed and maintained production ETL processes migrating **1M+ rows of data monthly** into Snowflake, improving data accuracy by **30%**.
+*   **CI/CD Automation:** Streamlined deployment pipelines using TeamCity and Octopus, increasing production deployment frequency by **50%**.
+*   **Environment Efficiency:** Integrated Docker into legacy development environments, reducing configuration time by **40%** and improving project delivery timelines by **30%**.
 
 ---
 
