@@ -2,7 +2,7 @@
 
 I am a **Software Engineer** and **Data Engineer** currently pursuing my **Master's degree in Software Engineering and Digital Transformation** at LUT University in Finland. With a solid foundation in Computer Engineering, I specialize in building scalable data systems, automating ETL pipelines, and exploring decentralized architectures.
 
-I thrive on turning complex backend challenges into high-performance solutions—whether that means slashing query execution times or engineering secure blockchain systems.
+I thrive on turning complex backend challenges into high-performance solutions, whether that means slashing query execution times or engineering secure blockchain systems.
 
 ---
 
