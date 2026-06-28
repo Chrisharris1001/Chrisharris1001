@@ -28,13 +28,13 @@ Here is a snapshot of the measurable value I've delivered in my previous roles:
 
 ### 📁 Featured Projects
 
-#### 🔹 [Workflow Digitization using Blockchain](https://github.com/Chrisharris1001)
+#### 🔹 [Workflow Digitization using Blockchain](https://github.com/Chrisharris1001/workflow-digitization-blockchain)
 *My Bachelor's Diploma Project.* A decentralized platform built for secure document notarization. It leverages smart contracts and cryptographic hashing to guarantee the absolute integrity, traceability, and authenticity of multi-party workflos.
 
-#### 🔹 [Moodle++](https://github.com/Chrisharris1001)
+#### 🔹 [Moodle++](https://github.com/bog1200/Moodle_plus_plus)
 A modern, high-performance recreation of the Moodle LMS designed to simplify course management. Built using modern, high-speed technologies to optimize user experience and eliminate legacy system lag.
 
-#### 🔹 [DB Airlines](https://github.com/Chrisharris1001)
+#### 🔹 [DB Airlines](https://github.com/bog1200/DB_Airline_Project)
 A comprehensive database-driven platform modeling a global flight booking and management system for a fictional airline based out of Bucharest.
 
 ---
