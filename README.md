@@ -48,5 +48,4 @@ A comprehensive database-driven platform modeling a global flight booking and ma
 ### 📬 Let's Connect!
 
 *   **LinkedIn:** [linkedin.com/in/razvan-cristea](https://www.linkedin.com/in/razvan-cristea/)
-*   **Email:** [razvan_cristea02@yahoo.com](mailto:razvan_cristea02@yahoo.com)
 *   **Location:** Lappeenranta, Finland 🇫🇮
